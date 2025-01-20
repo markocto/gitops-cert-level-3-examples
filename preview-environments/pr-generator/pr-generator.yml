@@ -11,8 +11,7 @@ spec:
       github:
         owner: markocto
         repo: gitops-cert-level-3-examples
-        labels:
-        - previewready
+        labels: preview-ready
       requeueAfterSeconds: 180
   template:
     metadata:
