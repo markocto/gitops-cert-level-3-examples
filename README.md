@@ -7,3 +7,5 @@ Take the certification yourself at [https://codefresh.io/courses/get-gitops-cert
 Good commit - fix-queue-size
 
 Bad commit - my-billing-feature
+
+Bit of this and that
