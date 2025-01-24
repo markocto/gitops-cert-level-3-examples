@@ -12,11 +12,11 @@ spec:
       - env: integration-non-gpu
         region: us
         type: non-prod
-        version: integration
+        version: integration-non-gpu
       - env: integration-gpu
         region: us
         type: non-prod
-        version: integration
+        version: integration-gpu
       - env: qa
         region: us  
         type: non-prod   
