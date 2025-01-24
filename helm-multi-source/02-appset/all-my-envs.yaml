@@ -9,6 +9,14 @@ spec:
   generators:
   - list:
       elements:
+      - env: integration-non-gpu
+        region: us
+        type: non-prod
+        version: integration
+      - env: integration-gpu
+        region: us
+        type: non-prod
+        version: integration
       - env: qa
         region: us  
         type: non-prod   
